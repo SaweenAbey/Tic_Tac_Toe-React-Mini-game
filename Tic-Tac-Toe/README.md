@@ -6,7 +6,7 @@ This project includes player name customization, winner toast notifications, mov
 
 ## Preview
 
-![XO Arena Hero](src/assets/hero.png)
+src/assert/image.png
 
 ## Features
 

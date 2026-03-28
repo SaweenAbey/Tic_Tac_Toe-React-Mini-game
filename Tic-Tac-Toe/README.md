@@ -6,7 +6,7 @@ This project includes player name customization, winner toast notifications, mov
 
 ## Preview
 
-src/assert/image.png
+![preview](src/assert/image.png)
 
 ## Features
 
